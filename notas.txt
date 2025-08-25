@@ -1,0 +1,13 @@
+Por hoy hemos avanzado bastante, me gustaría dejar unos readme parciales, para que quede constancia de lo que ya está:
+
+En el de Front:
+
+Que utilizamos Nuxt, Vue, SwetAlert2 para los mensajes de alerta y Boostrap para los estilos
+
+Que para probar como:
+
+Administrador -> email: admin@email.com contraseña es: 1234
+
+Revisor -> email: revisor@email.com  contraseña es: 5678
+
+Armamos ese y te digo la idea del de back?

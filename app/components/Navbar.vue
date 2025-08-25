@@ -1,5 +1,5 @@
 <template>
-  <nav class="navbar navbar-expand-lg navbar-light bg-light mb-4">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light mb-4 shadow">
     <div class="container">
       <NuxtLink class="navbar-brand text-success fw-bold fs-3" to="/"
         >Usuarios-App</NuxtLink

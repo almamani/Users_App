@@ -1,75 +1,30 @@
-# Nuxt Minimal Starter
+# Usuarios-App - Frontend
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Este proyecto está desarrollado con **Nuxt 3** y **Vue 3**. Se utiliza **Bootstrap** para los estilos y **SweetAlert2** para los mensajes de alerta.
 
-## Setup
+## Funcionalidades
 
-Make sure to install dependencies:
+- Panel de Administrador:
+  - Listado de todos los usuarios.
+  - Creación de usuarios mediante un modal.
+  - Edición y eliminación de usuarios (mock por ahora).
+- Panel de Revisor:
+  - Listado de usuarios sin la opción de crear, editar o eliminar.
 
-```bash
-# npm
-npm install
+## Datos de prueba
 
-# pnpm
-pnpm install
+Para probar la aplicación, se pueden utilizar los siguientes usuarios:
 
-# yarn
-yarn install
+- **Administrador**
+  - Email: `admin@email.com`
+  - Contraseña: `1234`
+- **Revisor**
+  - Email: `revisor@email.com`
+  - Contraseña: `5678`
 
-# bun
-bun install
-```
+## Tecnologías utilizadas
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+- [Nuxt 3](https://nuxt.com/)
+- [Vue 3](https://vuejs.org/)
+- [Bootstrap](https://getbootstrap.com/)
+- [SweetAlert2](https://sweetalert2.github.io/)

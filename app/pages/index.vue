@@ -2,7 +2,7 @@
   <div
     class="d-flex flex-column justify-content-center align-items-center vh-100"
   >
-    <h1 class="mb-5 text-success">Usuarios-App</h1>
+    <h1 class="mb-4 text-success">Usuarios-App</h1>
 
     <div class="card p-4 shadow" style="max-width: 400px; width: 100%">
       <h3 class="text-center mb-4">Ingrese a la Plataforma</h3>
